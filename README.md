@@ -4,9 +4,9 @@ Hey there!
  
 Thanks for joining recruitment for Junior Front-end dev @ Brightery.com. We’ve a small task for you!
 
-![Preview](https://raw.githubusercontent.com/ThonemCMS/Junior-front-end-task/master/imgs/preview.png)
+![Preview](https://raw.githubusercontent.com/ThonemCMS/Junior-front-end-task/main/imgs/preview.png)
 
-This is simple Radio widget (you can find [PSD](https://github.com/ThonemCMS/Junior-front-end-task/tree/master/psds) directory). Can you make this stuff work?
+This is simple Radio widget (you can find [PSD](https://github.com/ThonemCMS/Junior-front-end-task/tree/main/psds) directory). Can you make this stuff work?
 
 Use [CodePen](http://codepen.io/) as playground (create an account and create new pen, once you’re done send us link to your work). You can use any different platform if you want, (for example [JS Bin](https://jsbin.com)), but please remember that:
 + your widget should work out of the box (we should click link and be able to use it)
