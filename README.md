@@ -1,7 +1,7 @@
 # Junior front-end task
 
 Hey there!
-
+ 
 Thanks for joining recruitment for Junior Front-end dev @ Brightery.com. We’ve a small task for you!
 
 ![Preview](https://raw.githubusercontent.com/ThonemCMS/Junior-front-end-task/master/imgs/preview.png)
